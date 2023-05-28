@@ -16,7 +16,7 @@ const Login: React.FC = () => {
       localStorage.setItem("token", response.token);
       navigate("/tasks", { replace: true });
     } catch (error: any) {
-      alert("username or password incorrect");
+      alert("Usuario o contraseña incorrecta");
       console.error(error.message);
     }
   };

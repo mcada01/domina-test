@@ -15,7 +15,7 @@ const Register: React.FC = () => {
     e.preventDefault();
     try {
       const response = await register(name, lastname, username, password);
-      alert("User register successfully");
+      alert("Usuario registrado exitosamente");
       navigate("/login", { replace: true });
     } catch (error: any) {
       console.error(error.message);
