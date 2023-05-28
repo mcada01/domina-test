@@ -63,7 +63,10 @@ npm install	<br>
 3. Run app<br>
 npm run start:debug
 
+domina-web/src/assets/addTask.png
 
+### Usage
+Access the frontend application at http://localhost:8080.
 
 ### Backup
 Into the file backup_domina is the backup uses to tests.
