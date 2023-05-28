@@ -77,7 +77,7 @@ Into the file backup_domina is the backup uses to tests.
 Into the file Domina.postman_collection.json is the collection to import into postman.
 
 Open postman and click on button import:<br>
-(https://github.com/mcada01/domina-test/main/domina-web/src/assets/import.png)<br>
+[](https://github.com/mcada01/domina-test/blob/f06f6f2c68ac6881120a0420bd8d632c8ecf4c4a/domina-web/src/assets/import.png)<br>
 Upload file:<br>
 (https://github.com/mcada01/domina-test/main/domina-web/src/assets/uploadFile.png)<br>
 Click on Import button:<br>
