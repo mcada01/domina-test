@@ -24,7 +24,6 @@ const Register: React.FC = () => {
 
   return (
     <>
-      <Header />
       <div className="container vh-100">
         <div
           className="card o-hidden border-0 shadow-lg my-5"
