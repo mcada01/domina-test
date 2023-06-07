@@ -72,9 +72,6 @@ npm run start:debug
 <img src='https://github.com/mcada01/domina-test/blob/f06f6f2c68ac6881120a0420bd8d632c8ecf4c4a/domina-web/src/assets/logout.png'/>
 
 
-### Usage
-Access the frontend application at http://164.90.223.165:3000 and the backend application at http://164.90.223.165:8080/.
-
 ### Backup
 Into the file backup_domina is the backup uses to tests.
 
